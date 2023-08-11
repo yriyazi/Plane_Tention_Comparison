@@ -1,4 +1,4 @@
-# Plane_Tention_Comparison
+![image](https://github.com/yriyazi/Plane_Tention_Comparison/assets/119464932/52f0d07c-aa8c-4382-9842-762cd8d2205e)# Plane_Tention_Comparison
 
 ![Project Logo](project_logo.png) <!-- If you have a project logo, add it here -->
 
@@ -57,17 +57,26 @@ The results of the stress concentration analysis are presented in the [Results F
 <p align="center">  
     <table align="center">
         <tr>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Repository</th>
+            <th>Part</th>
+            <th>solid works</th>
+            <th>Ansys</th>
+            <th>Abaqus</th>
         </tr>
         <tr>
-            <td>a</td>
-            <td>a</td>
-            <td>a</td>
+            <td>radius 50</td>
+            <td>4.361</td>
+            <td>4.369</td>
+            <td>4.2583</td>
+        </tr>
+        <tr>
+            <td>difrence from real K</td>
+            <td>2.361843614</td>
+            <td>2.540627146</td>
+            <td>0.007045065</td>
         </tr>
     </table>
 </p>
+			
 
 ## References
 
