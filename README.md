@@ -63,8 +63,4 @@ Provide proper attribution to any external resources or materials used in your p
 
 For modeling data and validation details, please refer to the shared [Google Drive Folder](https://drive.google.com/drive/my-drive).
 
-For any questions or inquiries about the project, please contact [Your Name](mailto:your.email@example.com).
-
----
-
-**Note:** Make sure to replace placeholders like "your-username," "Your Name," and "your.email@example.com" with your actual information. Additionally, create the necessary directories and files mentioned in the README.
+For any questions or inquiries about the project, please contact [Yassin Riyazi](iyasiniyasin98@gmail.com).
