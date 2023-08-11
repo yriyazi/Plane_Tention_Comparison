@@ -54,7 +54,7 @@ To reproduce the simulations or explore the project further, follow these steps:
 
 The results of the stress concentration analysis are presented in the [Results Folder](results/). The results are tabulated, showcasing stress distribution data obtained from Abaqus, Ansys, and Solidworks simulations.
 
-<table>
+<table align="center">
     <tr>
         <th>Type</th>
         <th>Description</th>
