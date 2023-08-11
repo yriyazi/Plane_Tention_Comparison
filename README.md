@@ -85,6 +85,6 @@ Provide proper attribution to any external resources or materials used in your p
 - Wikipedia: [Stress Concentration](https://en.wikipedia.org/wiki/Stress_concentration)
 - Sample Reference Book, Author(s), Publisher, Year. 
 
-For modeling data and validation details, please refer to the shared [Google Drive Folder](https://drive.google.com/drive/my-drive](https://drive.google.com/drive/folders/1fJ6ptnXiF2kJkkGUQJyDMKaI1tpUNOWv?usp=sharing).
+For modeling data and validation details, please refer to the shared [Google Drive Folder](https://drive.google.com/drive/folders/1fJ6ptnXiF2kJkkGUQJyDMKaI1tpUNOWv).
 
 For any questions or inquiries about the project, please contact [Yassin Riyazi](iyasiniyasin98@gmail.com).
