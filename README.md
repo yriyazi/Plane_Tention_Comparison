@@ -54,9 +54,6 @@ To reproduce the simulations or explore the project further, follow these steps:
 
 The results of the stress concentration analysis are presented in the [Results Folder](results/). The results are tabulated, showcasing stress distribution data obtained from Abaqus, Ansys, and Solidworks simulations.
 
-![image](https://github.com/yriyazi/Plane_Tention_Comparison/assets/119464932/52f0d07c-aa8c-4382-9842-762cd8d2205e)
-
-
 <p align="center">  
     <table align="center">
         <tr>
